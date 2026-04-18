@@ -6,6 +6,7 @@ This project is a reproducible data analysis created using Quarto. It includes a
 ## Data Sources
 - Calcium dataset (provided in assignment)
 - Airport data manually constructed from assignment context
+- 'chatgptPlot.png': generic ChatGPT output image used in the GenAI comparison section
 
 ## Project Plan
 The project focuses on:
@@ -18,6 +19,8 @@ The project focuses on:
 - 'Reproducible-Data-Analysis.qmd'; main analysis file
 - 'Reproducible-Data-Analysis.pdf'; rendering output
 - 'calcium.csv'; dataset
+- 'chatgptPlot.png'; image used for the generic prompt output
+- 'README.md'; repository overview
 - 'plan.md'; planning document
 
 ## Contact
